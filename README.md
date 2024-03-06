@@ -1,7 +1,7 @@
 This app is based on MERN stack and follow a scalable folder structure. 
 
-You can create a new post, Edit the same by clicking on 3 dots on the post, Delete a post by clicking on Delete buttton and Like it by clicking on like button.
-You can playa around by adding more feature.
+The app supports login via Gmail or signing up through any email address.
+You can see all the posts or create your own post after logging in. You can also edit or delete your own post.
 
 
 If you want to create the whole app by yourself then follow the tutorial by 'Javascript Mastery' on youtube.
@@ -11,6 +11,10 @@ Part1: https://www.youtube.com/watch?v=ngc9gnGgUdA
 
 
 Part2: https://www.youtube.com/watch?v=aibtHnbeuio
+
+Part3: https://www.youtube.com/watch?v=LKlO8vLvUao The google login mentioned in video was not working for me due to some restrictions from google API and hence, It is implemented in this project some other way.
+
+Please note that since video is 3 years old, many elements or usage of controls have changed. This code implements all of the features with latest version of react.
 
 To run the app, follow the below steps:
 * Clone the repository
